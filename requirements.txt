@@ -26,7 +26,7 @@ pandas-datareader==0.9.0
 patsy==0.5.1
 Pillow==8.1.1
 psycopg2==2.8.6
-pyflux @ file:///home/duncanndiithi/PycharmProjects/dslminer/pyflux
+pyflux==0.3.2
 PyMeeus==0.3.7
 pyparsing==2.4.7
 pystan==2.19.1.1
